@@ -19,7 +19,7 @@ applications:
   path: .
   memory: 1024M
   services:
-  - Personality Insights-k6
+  - Personality Insights-na
   # - AlchemyAPI-7l
   - Document Conversion-zl
   - Tradeoff Analytics-11
