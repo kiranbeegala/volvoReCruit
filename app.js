@@ -57,7 +57,7 @@ app.get('/test',function(req,res){
 });
 app.get('/cdper*@:email', function (req, res) {
     email = req.params.email;
-    console.log("Email is"+ email)
+    console.log("Email is"+ email )
      fs.readFile('data_file.json','utf8',function(err,data){
       if(err){
          console.log(err);
@@ -117,7 +117,7 @@ app.get('/cdper*@:email', function (req, res) {
 
 app.get('/cdres*@:email', function (req, res) {
     email = req.params.email;
-    console.log("Email is"+ email);
+    console.log("Email is" + email);
      fs.readFile('data_file.json','utf8',function(err,data){
       if(err){
          console.log(err);

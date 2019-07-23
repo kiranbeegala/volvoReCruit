@@ -17,7 +17,7 @@ router.get('/', function(req, res) {
 	// 		//write something to find just what to send to the dashboard
 	// 		var dashboarddata = JSON.parse(data);
 	// 		// console.log(dashboarddata);
-	// 		console.log(dashboarddata['latkarsainath@gmail.com'].basicdata.full_name);
+	// 		console.log(dashboarddata['sudheendra@gmail.com'].basicdata.full_name);
 	// 	}
 	// });
   
