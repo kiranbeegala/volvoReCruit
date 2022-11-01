@@ -20,7 +20,7 @@
     "multer": "^1.1.0",
     "q": "^1.4.1",
     "serve-favicon": "~2.3.0",
-    "stylus": "0.42.3",
+    "stylus": "0.59.0",
     "twitter": "^1.2.5",
     "watson-developer-cloud": "^2.1.0"
   }
